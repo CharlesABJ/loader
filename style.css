@@ -9,7 +9,10 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: #262626;
-    padding-top: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .loading-text {
